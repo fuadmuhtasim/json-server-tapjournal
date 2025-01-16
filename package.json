@@ -1,0 +1,23 @@
+{
+  "name": "json-server-tapjournal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuadmuhtasim/json-server-tapjournal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fuadmuhtasim/json-server-tapjournal/issues"
+  },
+  "homepage": "https://github.com/fuadmuhtasim/json-server-tapjournal#readme",
+  "description": "",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
